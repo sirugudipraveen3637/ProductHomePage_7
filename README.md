@@ -3,10 +3,10 @@
 ##### Published Url:-[Product Home Page](https://venerable-liger-e67d54.netlify.app/)
 
 
-<img src="https://github.com/sirugudipraveen3637/ProductHomePage_7/blob/main/7.png" height="50%" width="75%"/>
+<img src="https://github.com/sirugudipraveen3637/ProductHomePage_7/blob/main/7.png" height="60%" width="75%"/>
 
 
-### Learnings:-
+### Knowledge Gained:-
 
   
   - Z-Index
