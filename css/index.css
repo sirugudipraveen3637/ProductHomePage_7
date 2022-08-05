@@ -1,0 +1,248 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+  
+    margin-left: 5em;
+    margin-right:5em;
+    margin-top: 2em;
+}
+
+nav{
+    width: 100%;
+    height: 60px;
+    position: relative;
+
+}
+nav>img:nth-child(1)
+{
+    float: left;
+    width: 83px;
+    height: 30px;
+    margin-top: 15px;
+    
+}
+nav>img:nth-child(3)
+{
+    float: right;
+    height: 60px;
+    width: 20%;
+  
+}
+nav>div:nth-child(2)
+{
+    float: left;
+    text-align: right;
+    width:40%;
+    margin-left: 18%;
+ 
+}
+nav>div:nth-child(2) .nav-item
+{
+    float: left;
+    height: 60px;
+    width:25%;
+    text-align: center;
+    line-height: 60px;
+    font-size: 15px;
+    font-family: 'Poppins';
+}
+
+nav>div:nth-child(2) .nav-item.active-item
+{
+   color:#FE5E35;
+   font-size: 18px;
+   font-family: 'Poppins';
+   font-weight: bolder;
+
+}
+div.left-section
+{
+    width: 60%;
+   float: left;
+    margin-top: 2em;
+}
+div.right-section
+{
+    width: 40%;
+   float: left;
+    margin-top: 0em;
+   position: relative;
+ 
+}
+div.left-section>h3
+{
+    font-size: 35px;
+    font-family: 'Poppins';
+    font-weight: 400;
+
+}
+
+div.left-section>h3>img
+{
+    width: 50px;
+    height: 50px;
+   
+}
+
+div.left-section>h1
+{
+    font-size: 55px;
+    font-family: 'Fredoka One';
+    font-weight: 10;
+    margin-top: 5px;
+}
+
+div.sub-headlines
+{
+    margin-left: 10%;
+    margin-top:2em;
+}
+
+h5.sub-headline>img
+{
+    background-color: #FE5E35;
+    border: 1px solid #FE5E35;
+    border-radius: 50px;
+    width:15px;
+    height:15px;
+    padding: 3px;
+    margin-right: 10px;
+    margin-top: 8px;
+
+}
+
+h5.sub-headline
+{
+    font-size: 20px;
+    font-family: 'Poppins';
+    font-weight: 10;
+ 
+}
+div.left-section>p{
+    margin-top: 2em;
+    color:#979797;
+    font-size: 12px;
+    font-family: 'Poppins';
+    width:70%;
+
+}
+.action-btns
+{
+    margin-top: 2em;
+}
+.action-btns>button
+{
+    background-color: #FE5E35;
+    border: 1px solid #FE5E35;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-family: 'Poppins';
+}
+.action-btns>button:nth-child(2)
+{
+    margin-left: 30px;
+}
+
+.headphone-div>img:nth-of-type(2){
+    width: 420px;
+    height: 420px;
+ 
+    position: absolute;
+    top:0px;
+}
+
+.headphone-div>img:nth-of-type(1)
+{
+    
+    width: 120px;
+    height: 120px;
+    margin-top: 250px;
+    margin-left: -30px;
+    z-index: 2;
+    position: absolute;
+   
+}
+div.discount-content
+{
+    position: absolute;
+    margin-top: 275px;
+    margin-left: 0px;
+    z-index: 2;
+    color: white;
+
+}
+div.discount-content>h4
+{
+    font-size: 0.67em;
+    font-family: 'Poppins';
+    font-weight: 600;
+    margin-bottom: 0px;
+    margin-left:8px;
+}
+div.discount-content>h1
+{
+    font-size: 38px;
+    font-family: 'Fredoka One';
+    font-weight: lighter;
+    margin-top: 0px;
+    margin-left: -5px;
+}
+
+div.dots
+{
+    margin-top: 450px;
+    width: 100%;
+    text-align: center;
+}
+
+div.dots>div.yellow-dot
+{
+    width: 20px;
+    height: 20px;
+    background-color: #FBD104;
+    border: 1px solid #FBD104;
+    border-radius: 50px;
+    margin-left: 175px;
+    float: left;
+}
+
+div.dots>div.tomato-dot
+{
+    width: 20px;
+    height: 20px;
+    background-color: #FE5E35;
+    border: 1px solid #FE5E35;
+    border-radius: 50px;
+    margin-left: 3%;
+    float: left;
+}
+
+div.dots>div.black-dot
+{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-left: 3%;
+    float: left;
+}
+
+.right-section>button
+{
+    background-color: #FE5E35;
+    border: 1px solid #FE5E35;
+    border-radius: 50px;
+    color: white;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-family: 'Poppins';
+    margin-top: 50px;
+    margin-left: -115px;
+}
