@@ -6,7 +6,7 @@
 <img src="https://github.com/sirugudipraveen3637/ProductHomePage_7/blob/main/7.png" height="50%" width="75%"/>
 
 
-### Learnings:-
+### Knowledge Gained:-
 
   
   - Z-Index
