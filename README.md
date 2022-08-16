@@ -13,6 +13,8 @@
   - Absolute & Relative positionings
   - Different type of Selectors
   - Image Positioning
+  - Resonsive web
+  - Media Queries
   
 ### Development Efforts:- 3.5 hours
   
